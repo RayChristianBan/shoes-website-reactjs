@@ -1,0 +1,41 @@
+.counter {
+    font-size: 2rem;
+    font-weight: 600;
+    color:black;
+    font-family: 'sans-serif';
+  }
+  
+  .counter-title {
+    font-weight: bolder;
+    font-size: 19px;
+    font-family: 'sans-serif';
+  }
+
+  .about-counter i{
+    color: #9370DB;
+    
+  }
+  
+  .about-content {
+    padding-left: 50px;
+  }
+  
+  .about-img img {
+    border-radius: 15px;
+  }
+  
+  .about-content h2 {
+    font-weight: bolder;
+    font-size: 50px;
+    font-family:'Times New Roman';
+
+  }
+
+  .about-content p {
+    font-weight: bolder;
+    font-size: 19px;
+    font-family: 'sans-serif';
+    color: #808080;
+
+  }
+  

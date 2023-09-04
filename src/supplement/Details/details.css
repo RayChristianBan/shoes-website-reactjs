@@ -1,0 +1,16 @@
+.single-feature h2 i {
+  font-size: 2.5rem;
+}
+
+.single-feature h6 {
+  font-weight: bolder;
+  font-size: 23px;
+  font-family: 'sans-serif';
+}
+
+.single-feature p {
+  font-weight: 600;
+  font-size: 18px;
+  font-family: 'sans-serif';
+  color: black;
+}

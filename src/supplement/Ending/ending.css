@@ -1,0 +1,26 @@
+.ending {
+    background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+  
+    padding: 60px;
+    border-radius: 15px;
+  }
+  
+  .ending h2 {
+    color: #fff;
+  }
+  .follow-us input {
+    border: none;
+    outline: none;
+  }
+  
+  .follow-us {
+    padding: 7px 10px;
+    background: #fff;
+    width: 45%;
+    margin: auto;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
